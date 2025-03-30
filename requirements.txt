@@ -1,0 +1,5 @@
+gradio
+transformers
+torch
+Pillow
+huggingface_hub
